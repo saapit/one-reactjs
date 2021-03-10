@@ -20,7 +20,7 @@ const Home = () => {
             <p>Hello World</p>
             <Input label="Enter number 1" onChange={(e) => setNumber1(Number(e.target.value))}/>
             <Input label="Enter number 2" onChange={(e) => setNumber2(Number(e.target.value))}/>
-            <Button title="Add" onClick={add}/>
+            {/* <Button title="Add" onClick={add}/> */}
             <Screen value={number1+number2}/>
         </div>
     )
