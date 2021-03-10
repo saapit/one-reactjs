@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/one-reactjs/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/one-reactjs/static/js/main.4cd446ed.chunk.js",
+    "main.js.map": "/one-reactjs/static/js/main.4cd446ed.chunk.js.map",
+    "runtime-main.js": "/one-reactjs/static/js/runtime-main.7bc578fc.js",
+    "runtime-main.js.map": "/one-reactjs/static/js/runtime-main.7bc578fc.js.map",
+    "static/js/2.6c98234b.chunk.js": "/one-reactjs/static/js/2.6c98234b.chunk.js",
+    "static/js/2.6c98234b.chunk.js.map": "/one-reactjs/static/js/2.6c98234b.chunk.js.map",
+    "static/js/3.d725e426.chunk.js": "/one-reactjs/static/js/3.d725e426.chunk.js",
+    "static/js/3.d725e426.chunk.js.map": "/one-reactjs/static/js/3.d725e426.chunk.js.map",
+    "index.html": "/one-reactjs/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/one-reactjs/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6c98234b.chunk.js.LICENSE.txt": "/one-reactjs/static/js/2.6c98234b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/one-reactjs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bc578fc.js",
+    "static/js/2.6c98234b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4cd446ed.chunk.js"
+  ]
+}
